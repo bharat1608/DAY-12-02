@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "survey form.html"
+status = 200
